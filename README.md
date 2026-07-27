@@ -9,7 +9,7 @@
 
 | ![](https://avatars.githubusercontent.com/u/98688494?v=4) | ![](https://avatars.githubusercontent.com/u/98688494?v=4) | ![](https://avatars.githubusercontent.com/u/98688494?v=4) | ![](https://avatars.githubusercontent.com/u/98688494?v=4) | ![](https://avatars.githubusercontent.com/u/98688494?v=4) | ![](https://avatars.githubusercontent.com/u/98688494?v=4) |
 | --- | --- | --- | --- | --- | --- |
-| 최선규 </br> [`@luke0408`](https://github.com/luke0408) | 강현우 </br> [`@WooDDang`](https://github.com/wooddang-gachon) | 조혜원 </br> [`@One-HyeWon`](https://github.com/One-HyeWon) | 지영인 </br> [`@yeongin-ji`](https://github.com/yeongin-ji) | 강지훈 </br> [`@Issac`]([https://github.com/](https://github.com/theSnackOverflow)) | 이름 </br> [`@github name`](https://github.com/) | 이름 </br> [`@github name`](https://github.com/) |
+| 최선규 </br> [`@luke0408`](https://github.com/luke0408) | 강현우 </br> [`@WooDDang`](https://github.com/wooddang-gachon) | 조혜원 </br> [`@One-HyeWon`](https://github.com/One-HyeWon) | 지영인 </br> [`@yeongin-ji`](https://github.com/yeongin-ji) | 강지훈 </br> [`@Issac`]([(https://github.com/theSnackOverflow)]) | 이름 </br> [`@github name`](https://github.com/) | 이름 </br> [`@github name`](https://github.com/) |
 
 ## 스터디 방식
 
